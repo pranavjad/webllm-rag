@@ -29,7 +29,6 @@ function chatbox() {
     }
     runModel();
     
-    
   }, [])
 
   return (
